@@ -48,8 +48,13 @@ https://grayscale.com/wp-content/uploads/2021/12/grayscale-building-blocks-solan
 Recommended Readings
 
 https://solana.com/
+
 https://www.flowzcrypto.com/solana-explained-the-beginners-guide/
+
 https://cryptobriefing.com/beginners-guide-getting-started-with-solana/
+
 https://solana.com/developers
+
 https://solana.com/news/getting-started-with-solana-development
+
 https://solana.com/ecosystem/solstarter
